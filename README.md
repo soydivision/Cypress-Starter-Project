@@ -21,8 +21,7 @@ This is a starter project for Cypress including options and example tests. It co
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd <project_folder>
+   cd <project_folder>```
 2.  ```bash
-   npm install
+   npm install```
 3. npx cypress run --browser firefox --headless
-
